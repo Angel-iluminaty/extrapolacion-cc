@@ -20,7 +20,7 @@ git clone https://github.com/Angel-iluminaty/extrapolacion-cc.git
 
 cd extrapolacion-cc
 
- bash extrapolacion-cc
+ bash extrapolacion-cc.sh
 ```
 
 #### By: Angel Del Villar 
