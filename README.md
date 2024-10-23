@@ -1,15 +1,15 @@
 ### EXTRAPOLACION DE BIN VILLAR
 
 ###### METODO BASICO 
-######METODO POR SIMILITUD 
-######METODO IDENTACION LÓGICA
-######METODO SOFIA.
+###### METODO POR SIMILITUD 
+###### METODO IDENTACION LÓGICA
+###### METODO SOFIA.
 
 ###### EXTRAPOLA CCS DE FORMA EFICIENTE CON ESTE SCRIPT PARA TERMUX.
 
-######Si necesitas extrapolar CCS de manera eficiente, te presentamos un script que te ayudará a hacerlo usando Termux en tu dispositivo Android. Este script ofrece múltiples métodos para extrapolar ccs.
+###### Si necesitas extrapolar CCS de manera eficiente, te presentamos un script que te ayudará a hacerlo usando Termux en tu dispositivo Android. Este script ofrece múltiples métodos para extrapolar ccs.
 
-######¿Qué Hace Este Script? El script EXTRAPOLACION-CC está diseñado para extrapolar ccs utilizando varios métodos. Esto es útil para análisis de seguridad y pruebas.
+###### ¿Qué Hace Este Script? El script EXTRAPOLACION-CC está diseñado para extrapolar ccs utilizando varios métodos. Esto es útil para análisis de seguridad y pruebas.
 
 ### 🔮 INSTALACION: 🔮
 
