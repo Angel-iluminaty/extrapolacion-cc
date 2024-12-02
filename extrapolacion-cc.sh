@@ -18,6 +18,7 @@ mostrar_menu() {
 ╚═════╝░╚═╝╚═╝░░╚══╝\e[0m"
     echo -e "\033[95m"
     echo -e "\e[32m======EXTRAPOLACIÓN-CC======\e[0m"
+    echo -e "\e[1;33mCreado por: Angel Del Villar\e[0m"
     echo ""
     echo -e "Menú:"
     echo -e "------"
@@ -28,7 +29,7 @@ mostrar_menu() {
     echo -e "5. \e[31mSalir\e[0m"
     echo ""
     
-    echo -e "\e[32mCreado por: Angel Del Villar\e[0m"
+    
     echo ""
 }
 
